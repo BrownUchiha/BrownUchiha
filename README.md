@@ -26,23 +26,11 @@ src="https://img.shields.io/github/followers/BrownUchiha?logo=github&style=for-t
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 </p>
 
-## <img src="https://cdn.discordapp.com/attachments/1020926419708166205/1034125465369182270/stats.png" height="25" alt="CSS3" />This week i spent my time on:
-
-<!--START_SECTION:waka-->
-
-```text
-.Lua        1 hr 52 mins    ████████████████████▓░░░░   82.32 %
-.Css        24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
-```
-
-<!--END_SECTION:waka-->
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeshibintmz&label=Profile%20views&color=blueviolet&style=flat" alt="Brown Uchiha" /> </p>
 
 ## <img src="https://cdn.discordapp.com/attachments/1020926419708166205/1034125465369182270/stats.png" height="25" alt="CSS3" /> My Github Stats
 
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=BrownUchiha&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" />
-
 <a href="http://www.github.com/BrownUchiha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
 ## Contribution Graph
