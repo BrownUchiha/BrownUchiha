@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/BrownUchiha?logo=github&style=for-t
 ## Contribution Graph
 
   <br/>
-   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BrownUchiha&custom_title=Brown'%20Uchiha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/BrownUchiha"><img alt="BrownUchiha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BrownUchiha&custom_title=Brown'%20Uchiha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
