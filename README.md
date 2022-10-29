@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/BrownUchiha?logo=github&style=for-t
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeshibintmz&label=Profile%20views&color=blueviolet&style=flat" alt="Brown Uchiha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BrownUchiha&label=Profile%20views&color=blueviolet&style=flat" alt="Brown Uchiha" /> </p>
 
 ## <img src="https://cdn.discordapp.com/attachments/1020926419708166205/1034125465369182270/stats.png" height="25" alt="CSS3" /> My Github Stats
 
