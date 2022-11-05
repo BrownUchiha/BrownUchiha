@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/BrownUchiha?logo=github&style=for-t
 
 ## <img src="https://cdn.discordapp.com/attachments/1020926419708166205/1034125465369182270/stats.png" height="25" alt="CSS3" /> My Github Stats
 
-<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=BrownUchiha&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" />
+<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=BrownUchiha&show_icons=true&&line_height=25&width=20&title_color= 	5dadbd&icon_color=FFFFFF&text_color=61c398&bg_color=000000" alt="BrownUchiha" />
 <a href="http://www.github.com/BrownUchiha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrownUchiha&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
 ## Contribution Graph
