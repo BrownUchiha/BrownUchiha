@@ -6,6 +6,7 @@ src="https://img.shields.io/github/followers/BrownUchiha?logo=github&style=for-t
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
+
 🔗 &nbsp;**Connect with me**
 
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumar-gumaste/)
@@ -32,12 +33,12 @@ src="https://img.shields.io/github/followers/BrownUchiha?logo=github&style=for-t
 
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=BrownUchiha&show_icons=true&&line_height=25&width=20&title_color=5dadbd&icon_color=FFFFFF&text_color=61c398&bg_color=000000" alt="BrownUchiha" />
 <a href="http://www.github.com/BrownUchiha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrownUchiha&stroke=ffffff&background=000000&ring=f6acff&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
-
+<!-- 
 ## Contribution Graph
 
   <br/>
    <a href="https://github.com/BrownUchiha"><img alt="BrownUchiha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BrownUchiha&custom_title=Brown'%20Uchiha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/> -->
 
 <br/>
 
