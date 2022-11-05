@@ -3,9 +3,7 @@
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/BrownUchiha/BrownUchiha) <a href="https://www.github.com/BrownUchiha" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BrownUchiha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
 
 🔗 &nbsp;**Connect with me**
 
@@ -13,7 +11,16 @@ src="https://img.shields.io/github/followers/BrownUchiha?logo=github&style=for-t
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=BrownUchiha&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/BrownUchiha#8121)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BrownUchiha?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fitsmeshibintmz&screen_name=BrownUchiha)
 
-# 🛠 **&nbsp;languages and tools:**
+### Here's the languages that I am currently working on:
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+<!-- # 🛠 **&nbsp;languages and tools:**
 
 <i>Tools, languages, and other things that I like to work with.</i>
 
@@ -26,17 +33,20 @@ src="https://img.shields.io/github/followers/BrownUchiha?logo=github&style=for-t
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 </p>
-
+ -->
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BrownUchiha&label=Profile%20views&color=blueviolet&style=flat" alt="Brown Uchiha" /> </p>
 
 ## <img src="https://cdn.discordapp.com/attachments/1020926419708166205/1034125465369182270/stats.png" height="25" alt="CSS3" /> My Github Stats
 
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=BrownUchiha&show_icons=true&&line_height=25&width=20&title_color=5dadbd&icon_color=FFFFFF&text_color=61c398&bg_color=000000" alt="BrownUchiha" />
 <a href="http://www.github.com/BrownUchiha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrownUchiha&stroke=ffffff&background=000000&ring=f6acff&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
-<!-- 
-## Contribution Graph
 
-  <br/>
+## Contribution Graph
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BrownUchiha&bg_color=000&color=fff&line=EDCAFF&point=fff&hide_border=true)](https://github.com/BrownUchiha/github-readme-activity-graph)
+
+<!--   <br/>
    <a href="https://github.com/BrownUchiha"><img alt="BrownUchiha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BrownUchiha&custom_title=Brown'%20Uchiha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/> -->
 
